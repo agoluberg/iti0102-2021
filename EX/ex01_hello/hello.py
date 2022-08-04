@@ -31,7 +31,7 @@ color = "red"
 objects = "violets"
 activity = "code"
 
-print(color)
+print(color + objects)
 
 """
 3. GreetingsGreetingsGreetings
